@@ -1,2 +1,0 @@
-# newscript
-Sttt
